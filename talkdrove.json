@@ -1,11 +1,11 @@
 
 {
-    "bot-name": "CASEYRHODES XMD",
-    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Caseyrhodes",
-    "logo": "https://i.ibb.co/WNzz5RJV/lordcasey.jpg",
+    "bot-name": "ELIAKIM XMD",
+    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Eliakimtech",
+    "logo": "https://i.postimg.cc/Gt6TwTKH/IMG-20250302-WA0000.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://pairs-rzev.onrender.com/",
-    "owner-verification": "caseywebsthedonn25@gmail.com",
+    "owner-verification": "eliakimkiplagat441@gmail.com",
   
     "env": {
       "SESSION_ID": {
@@ -77,27 +77,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*caseyrhodes 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
+      "value": "*eliakimxmd 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐅𝐫𝐚𝐧𝐤"
+      "value": "𝐌𝐫 𝗘𝗹𝗶𝗮𝗸𝗶𝗺"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254719646303"
+      "value": "254745931715"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "CASEYRHODES-XMD"
+      "value": "ELIAKIM-XMD"
 
       }, 
 
