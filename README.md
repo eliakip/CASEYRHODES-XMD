@@ -57,7 +57,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 You will need a session ID to run CASEYRHODES-XMD. Click the button below to obtain your session ID:
 
-<a href='https://caseywebsite-git.vercel.app/' target="_blank">
+<a href='https://eliakimwebsite-git.vercel.app/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
@@ -79,7 +79,7 @@ You will need a session ID to run CASEYRHODES-XMD. Click the button below to obt
   <a href="https://deployment-yr-nui9.vercel.app/"><img title="DEPLOY-NOW" src="https://img.shields.io/badge/DEPLOY-NOW-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
 
 
-## 🔗 CASEYRHODES XMD Info
+## 🔗 ELIAKIM XMD Info
 
   <p align="center">
 <a href="https://github.com/SilvaTechB/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
