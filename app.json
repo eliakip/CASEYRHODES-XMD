@@ -1,11 +1,11 @@
 {
-  "name": "CASEYRHODES-XMD",
-  "description": "Javascript WhatsApp bot made by CASEYRHODES.",
-  "keywords": ["CASEYRHODES-XMD"],
+  "name": "ELIAKIM-XMD",
+  "description": "Javascript WhatsApp bot made by ELIAKIMTECH.",
+  "keywords": ["ELIAKIM-XMD"],
   
   
-  "logo": "https://files.catbox.moe/52dotx.jpg`",
-  "repository": "https://github.com/caseyweb/CASEYRHODES-XMD",
+  "logo": "https://i.postimg.cc/Gt6TwTKH/IMG-20250302-WA0000.jpg",
+  "repository": "https://github.com/caseyweb/ELIAKIM-XMD",
   "succes_url": "/",
 
   "stack": "container",
@@ -19,13 +19,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/52dotx.jpg`"
+      "value": "https://i.postimg.cc/Gt6TwTKH/IMG-20250302-WA0000.jpg"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> CASEYRHODES-XMD IS ACTIVE AND ALIVE⚡"
+      "value": "> ELIAKIM-XMD IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -94,7 +94,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254112192119"
+      "value": "254745931715"
  },
 
     "BOT_NAME": {
