@@ -14,7 +14,7 @@
 
 # ELIAKIMXMD BOTZ INC.❤️
 
-[![Sponsor Caseyrhodes](https://img.shields.io/badge/Sponsor-caseyweb-important)](https://github.com/sponsors/caseyweb)
+[![Sponsor Caseyrhodes](https://i.postimg.cc/Gt6TwTKH/IMG-20250302-WA0000.jpg)](https://github.com/sponsors/caseyweb)
 
 
 <p align="center">
