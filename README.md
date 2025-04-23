@@ -25,7 +25,7 @@
 
 
 <p align="center">
-<a href="https://github.com/caseyweb"><img title="Author" src="https://i.postimg.cc/Gt6TwTKH/IMG-20250302-WA0000.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/caseyweb"><img title="?style=for-the-badge&logo=github"></a>
 
 
 
