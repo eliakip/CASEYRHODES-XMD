@@ -20,7 +20,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const usedMem = (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2); // Used RAM in MB
 
         // Stylish and detailed system status message
-        const status = `╭───❰ *𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐗𝐌𝐃* ❱──┈⊷
+        const status = `╭───❰ *ELIAKIM XMD* ❱──┈⊷
 ┃ *✨𝖴ᴘᴛɪᴍᴇ* : *${runtime(process.uptime())}*
 ┃ *💾 𝖱ᴀᴍ ᴜsᴀɢᴇ* : *${usedMem}MB / ${totalMem}MB*
 ┃ *🧑‍💻𝖣ᴇᴘʟᴏʏᴇᴅ ᴏɴ* : *${platform}*
@@ -31,7 +31,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send image + caption + audio combined
         await conn.sendMessage(from, { 
-            image: { url: `https://i.ibb.co/wN6Gw0ZF/lordcasey.jpg` },  
+            image: { url: `https://i.postimg.cc/Gt6TwTKH/IMG-20250302-WA0000.jpg` },  
             caption: status,
             contextInfo: {
                 mentionedJid: [m.sender],
@@ -39,7 +39,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: '𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐀𝐋𝐈𝐕𝐄🍀',
+                    newsletterName: 'ELIAKIM 𝐀𝐋𝐈𝐕𝐄🍀',
                     serverMessageId: 143
                 }
             }
