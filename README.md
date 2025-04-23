@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/caseyweb">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=CASEY+RHODES+XMD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="caseywebReadme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=ELIAKIM+TECB+XMD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="eliakimwebReadme">
   </a>
 </p>
 
