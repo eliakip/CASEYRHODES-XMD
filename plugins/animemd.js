@@ -23,7 +23,7 @@ try{
 let res = await axios.get('https://api.lolicon.app/setu/v2?num=1&r18=0&tag=lolicon')
 let wm = `😎 Random Garl image
 
-©💎 ℂ𝔸𝕊𝔼𝕐ℝℍ𝕆𝔻𝔼𝕊 𝕏𝕄𝔻 💎`
+©💎 𝔼𝕃𝕀𝔸𝕂𝕀𝕄 𝕏𝕄𝔻 💎`
 await conn.sendMessage(from, { image: { url: res.data.data[0].urls.original }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -46,7 +46,7 @@ try{
 let res = await axios.get('https://api.waifu.pics/sfw/waifu')
 let wm = `🩵 Random Waifu image
 
-©💎 ℂ𝔸𝕊𝔼𝕐ℝℍ𝕆𝔻𝔼𝕊-𝕏𝕄𝔻💎`
+©💎 𝔼𝕃𝕀𝔸𝕂𝕀𝕄-𝕏𝕄𝔻💎`
 await conn.sendMessage(from, { image: { url: res.data.url }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -69,7 +69,7 @@ try{
 let res = await axios.get('https://api.waifu.pics/sfw/neko')
 let wm = `🩷 Random neko image
 
-©💎 ℂ𝔸𝕊𝔼𝕐ℝℍ𝕆𝔻𝔼𝕊 𝕏𝕄𝔻 💎`
+©💎 𝔼𝕃𝕀𝔸𝕂𝕀𝕄 𝕏𝕄𝔻 💎`
 await conn.sendMessage(from, { image: { url: res.data.url  }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
